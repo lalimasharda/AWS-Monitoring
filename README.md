@@ -14,7 +14,7 @@
 
 - Set up 3 t2.micro AWS EC2 instances
 
-- Installed Prometheus and Node Exporter: Followed [Digital Ocean acticle] for steps for installation and configuration
+- Installed Prometheus and Node Exporter: Followed [Digital Ocean article] for steps for installation and configuration
 - Installed Grafana and connected it with Prometheus: Steps taken from the [Official Documentation]
 - Currently working on creating a new dashboard and graphs on Grafana
 
@@ -30,4 +30,4 @@
 
 [article]: https://comtechies.com/how-to-set-up-gui-on-amazon-ec2-ubuntu-server.html
 [Digital Ocean article]: https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-on-ubuntu-16-04
-[Official Documention]: https://prometheus.io/docs/visualization/grafana/ 
+[Official Documentation]: https://prometheus.io/docs/visualization/grafana/ 
