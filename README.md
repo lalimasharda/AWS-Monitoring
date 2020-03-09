@@ -12,8 +12,8 @@
 
 ### Monitoring Challenge milestones
 
+- Set up an AWS account
 - Set up 3 t2.micro AWS EC2 instances
-
 - Installed Prometheus and Node Exporter: Followed [Digital Ocean article] for steps for installation and configuration
 - Installed Grafana and connected it with Prometheus: Steps taken from the [Official Documentation]
 - Currently working on creating a new dashboard and graphs on Grafana
